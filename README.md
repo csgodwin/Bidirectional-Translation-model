@@ -1,2 +1,2 @@
 # Translation-model
-Basic model for translation
+Bidirectional GRU model for translation. Can use any training data (language needed)
