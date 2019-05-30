@@ -1,2 +1,2 @@
 # Translation-model
-Bidirectional GRU model for translation. Can use any training data (language needed)
+Bidirectional GRU model for translation, can use any language (training data).
